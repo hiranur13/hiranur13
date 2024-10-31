@@ -10,6 +10,11 @@
 
  ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+ <p align="center">
+  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
+
+## ```Status```
+  <p align="center"><a href="https://github.com/hiranur13"><img src="https://github-readme-stats.vercel.app/api?username=hiranur13&show_icons=true&theme=radical"></a></p>
 
 
 <!---
